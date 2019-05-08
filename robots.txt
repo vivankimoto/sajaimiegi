@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://raetheing.cairojewels.com/sitemap.xml
